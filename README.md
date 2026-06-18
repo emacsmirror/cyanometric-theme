@@ -2,7 +2,7 @@
 
 # Cyanometric Emacs Theme
 
-A Theme with overwhelming bias towards cyan
+A Theme with overwhelming bias towards cyan a.k.a. the real Tron Legacy Theme
 
 ![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-cyanometric/images/cyanometric-beast.png)
 
