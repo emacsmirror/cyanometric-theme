@@ -1,10 +1,8 @@
 [![MELPA](http://stable.melpa.org/packages/cyanometric-theme-badge.svg)](http://stable.melpa.org/#/cyanometric-theme) [![MELPA](http://melpa.org/packages/cyanometric-theme-badge.svg)](http://melpa.org/#/cyanometric-theme)
 
-# Cyanometric Emacs Theme
+# Cyanometric 
 
-A Theme with overwhelming bias towards cyan a.k.a. the real Tron Legacy Theme
-
-![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-cyanometric/images/cyanometric-beast.png)
+An Emacs Theme with overwhelming bias towards cyan (a better Tron Legacy Theme)
 
 ## Installation
 
